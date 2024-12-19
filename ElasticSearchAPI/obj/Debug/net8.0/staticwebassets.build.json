@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "31JaK3h9tpMk2R8AcjZSW0UcEzEEPdAy7O87c6ps8yw=",
+  "Source": "ElasticSearchAPI",
+  "BasePath": "_content/ElasticSearchAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
